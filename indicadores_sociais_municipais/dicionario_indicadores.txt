@@ -1,0 +1,20 @@
+indicadores_municipais:
+
+Tab1 - Percentual Distribuição Urbano / Rural - Homem / Mulher
+Tab2 - Distribuição percentual, por grupos de idade
+Tab3 - Pessoas de 15 anos ou mais de idade que não sabem ler e escrever, total e respectivas taxas de analfabetismo, por grupos de idade (%)
+Tab4 - Unidades domésticas, por sexo das pessoas responsáveis pelos domicílios particulares permanentes
+Tab5 - Unidades domésticas, por tipo ( Único responsável / Com mais de Rensponsável )
+Tab6 - Unidades domésticas, por tipo  (Estrutura familiar - Casal com filhos, homem com filhos ...)
+Tab7 - Domicílios particulares permanentes Distribuição percentual, por tipo de saneamento (Adequado, Semi-Adequado, Inadequado)
+Tab8 - Rendimento mensal total domiciliar per capita nominal
+Tab9 - Valor médio e mediano do rendimento mensal total nominal, por sexo
+Tab10 - Valor médio do rendimento mensal total nominal, por cor ou raça
+Tab11 - Razão entre médias do rendimento mensal total nominal, por cor ou raça
+Tab12 - Proporção de pessoas residentes em domicílios particulares permanentes, por classes selecionadas de rendimento mensal total domiciliar per capita nominal
+Tab13 - População residente em domicílio particulares permanentes com saneamento inadequado Proporção de pessoas, por classes selecionadas de rendimento mensal total domiciliar per capita nominal
+Tab14 - Taxa de analfabetismo da população de 15 anos ou mais de idade por grupos de idade
+Tab15 - Proporção de domicílios particulares permanentes, por tipo de saneamento Ano 2000/2010
+Tab16 - Proporção de crianças de 0 a 5 anos de idade, residentes em domicílios particulares permanentes (Com responsável ou cônjuge analfabeto, Com saneamento inadequado (2), Com responsável ou cônjuge analfabeto e saneamento inadequado (2) )
+Tab17 - Pessoas de 10 anos de idade que não sabem ler e escrever, total e respectiva taxa de analfabetismo 
+
